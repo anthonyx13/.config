@@ -1,5 +1,5 @@
 # .config
-Para instalar polybar :
+Para instalar polybar(en debian) :
 
 apt install polybar
 
