@@ -5,7 +5,7 @@ apt install polybar
 
 en nuestro debian,por defecto la configuración se encuentra en "~/.config/polybar/config.ini".
 
-Nano $HOME/.config/polybar/launch.sh y meter esto:
+nano $HOME/.config/polybar/launch.sh y meter esto:
 ------------------------------------------------------------------------------------
 #!/usr/bin/env bash
 
